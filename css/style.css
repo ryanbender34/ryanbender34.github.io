@@ -150,6 +150,7 @@ textarea {
     transform: translateY(-3px); }
   .btn--bg {
     padding: 1.5rem 8rem;
+    margin-right: 1rem;
     font-size: 2rem; }
   .btn--med {
     padding: 1.5rem 5rem;
@@ -680,6 +681,7 @@ textarea {
     border-radius: 5px;
     font-weight: 600;
     color: #777; }
+
 
 .mouse {
   width: 25px;
